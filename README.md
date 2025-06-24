@@ -1,6 +1,3 @@
-# desafio-de-la-tienda-alura
-Desafío de programación para la tienda Alura
-
 # Desafío de la Tienda Alura
 
 Este repositorio contiene la resolución del desafío propuesto por Alura para la creación de una aplicación/sitio web de tienda.
