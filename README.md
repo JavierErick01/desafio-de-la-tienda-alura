@@ -1,5 +1,7 @@
-# Desafío de la Tienda Alura
-<h1 align="center"> # Desafío de la Tienda Alura </h1>
+![Challenge Desafio de la tienda Alura](https://github.com/user-attachments/assets/92426a33-e0f2-4793-a06e-36bd9d22bd1f)
+
+
+<h1 align="center"> Desafío de la Tienda Alura </h1>
 
 Este repositorio contiene la resolución del desafío propuesto por Alura para la creación de una aplicación/sitio web de tienda.
 
