@@ -1,24 +1,25 @@
 ![Challenge Desafio de la tienda Alura](https://github.com/user-attachments/assets/92426a33-e0f2-4793-a06e-36bd9d22bd1f)
 
-
-<h1 align="center"> Desafío de la Tienda Alura </h1>
-
 Este repositorio contiene la resolución del desafío propuesto por Alura para la creación de una aplicación/sitio web de tienda.
 
 ---
 
 ## Objetivo del Desafío
 
-El objetivo principal de este desafío es [describe brevemente el objetivo, por ejemplo: implementar una interfaz de usuario interactiva para una tienda en línea].
+El objetivo principal de este desafío es analizar datos de ventas, rendimiento y reseñas de las 4 tiendas del Sr. Juan e identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
 
 ---
 
 ## Tecnologías Utilizadas
 
+* Trello
+* GitHub
+* Canva
+* Discord
+* Colab
 * HTML
-* CSS
-* JavaScript
-* [Añade cualquier otra tecnología que uses]
+* Index
+* Python
 
 ---
 
