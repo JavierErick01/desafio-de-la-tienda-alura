@@ -17,8 +17,6 @@ El objetivo principal de este desafío es analizar datos de ventas, rendimiento 
 * Canva
 * Discord
 * Colab
-* HTML
-* Index
 * Python
 
 ---
